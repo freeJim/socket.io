@@ -1,5 +1,5 @@
 {
-  "name": "socket.io",
+  "name": "socket.io.174",
   "version": "1.7.4",
   "description": "node.js realtime framework server",
   "keywords": [
@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/socketio/socket.io"
+    "url": "git://github.com/freeJim/socket.io"
   },
   "scripts": {
     "test": "gulp test"
